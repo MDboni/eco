@@ -1,0 +1,233 @@
+[
+  {
+    "product_id": 1,
+    "product_title": "Dell Inspiron 15",
+    "product_image": "https://i.ibb.co/2WQmz7m/laptop1.jpg",
+    "category": "laptop",
+    "price": 650,
+    "description": "Dell Inspiron 15 with Intel i5 11th Gen and 8GB RAM.",
+    "Specification": ["Intel i5", "8GB RAM", "512GB SSD", "15.6 inch Display"],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": 2,
+    "product_title": "HP Pavilion 14",
+    "product_image": "https://i.ibb.co/3CNy6gq/laptop2.jpg",
+    "category": "laptop",
+    "price": 720,
+    "description": "HP Pavilion with AMD Ryzen 5 processor.",
+    "Specification": ["Ryzen 5", "8GB RAM", "512GB SSD", "14 inch FHD"],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": 3,
+    "product_title": "Asus VivoBook",
+    "product_image": "https://i.ibb.co/PcV4zvR/laptop3.jpg",
+    "category": "laptop",
+    "price": 580,
+    "description": "Asus VivoBook sleek design for students.",
+    "Specification": ["Intel i3", "4GB RAM", "256GB SSD", "14 inch"],
+    "availability": false,
+    "rating": 4.0
+  },
+  {
+    "product_id": 4,
+    "product_title": "iPhone 14",
+    "product_image": "https://i.ibb.co/x1h3ySg/phone1.jpg",
+    "category": "phone",
+    "price": 999,
+    "description": "Latest iPhone 14 with advanced camera features.",
+    "Specification": ["A15 Bionic", "128GB Storage", "6.1 inch OLED"],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 5,
+    "product_title": "Samsung Galaxy S22",
+    "product_image": "https://i.ibb.co/JKMzn4C/phone2.jpg",
+    "category": "phone",
+    "price": 899,
+    "description": "Samsung Galaxy S22 with 5G support.",
+    "Specification": ["Snapdragon 8 Gen 1", "8GB RAM", "128GB"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 6,
+    "product_title": "OnePlus 10 Pro",
+    "product_image": "https://i.ibb.co/mD6sRkR/phone3.jpg",
+    "category": "phone",
+    "price": 750,
+    "description": "OnePlus flagship phone with fast charging.",
+    "Specification": ["Snapdragon 8 Gen 1", "12GB RAM", "256GB"],
+    "availability": false,
+    "rating": 4.6
+  },
+  {
+    "product_id": 7,
+    "product_title": "MacBook Air M2",
+    "product_image": "https://i.ibb.co/Y8mP3Dw/macbook1.jpg",
+    "category": "mackbook",
+    "price": 1200,
+    "description": "Apple MacBook Air M2 with slim design.",
+    "Specification": ["Apple M2 Chip", "8GB RAM", "256GB SSD"],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 8,
+    "product_title": "MacBook Pro 14",
+    "product_image": "https://i.ibb.co/6XChyTD/macbook2.jpg",
+    "category": "mackbook",
+    "price": 2000,
+    "description": "Powerful MacBook Pro 14 for professionals.",
+    "Specification": ["Apple M1 Pro", "16GB RAM", "512GB SSD"],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 9,
+    "product_title": "MacBook Pro 16",
+    "product_image": "https://i.ibb.co/5n5cWdB/macbook3.jpg",
+    "category": "mackbook",
+    "price": 2500,
+    "description": "Apple MacBook Pro 16 with M1 Max chip.",
+    "Specification": ["Apple M1 Max", "32GB RAM", "1TB SSD"],
+    "availability": false,
+    "rating": 5.0
+  },
+  {
+    "product_id": 10,
+    "product_title": "Anker PowerPort III",
+    "product_image": "https://i.ibb.co/Z2wx3Sr/charger1.jpg",
+    "category": "charger",
+    "price": 35,
+    "description": "Anker fast charging USB-C charger.",
+    "Specification": ["USB-C", "65W Power", "Portable Design"],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": 11,
+    "product_title": "Apple 20W Charger",
+    "product_image": "https://i.ibb.co/ZVj5D9k/charger2.jpg",
+    "category": "charger",
+    "price": 25,
+    "description": "Original Apple 20W USB-C charger.",
+    "Specification": ["USB-C", "20W", "Compact Size"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 12,
+    "product_title": "Samsung Super Fast Charger",
+    "product_image": "https://i.ibb.co/9yxMcS6/charger3.jpg",
+    "category": "charger",
+    "price": 30,
+    "description": "Samsung 45W super fast charger.",
+    "Specification": ["USB-C", "45W", "Adaptive Fast Charging"],
+    "availability": false,
+    "rating": 4.4
+  },
+  {
+    "product_id": 13,
+    "product_title": "Logitech MX Master 3",
+    "product_image": "https://i.ibb.co/ZfZpH8X/mouse1.jpg",
+    "category": "mouse",
+    "price": 99,
+    "description": "Premium Logitech wireless mouse.",
+    "Specification": ["Wireless", "Ergonomic Design", "USB-C Charging"],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 14,
+    "product_title": "Razer DeathAdder V2",
+    "product_image": "https://i.ibb.co/NryVZt0/mouse2.jpg",
+    "category": "mouse",
+    "price": 70,
+    "description": "Gaming mouse with high precision sensor.",
+    "Specification": ["Wired", "20K DPI", "RGB Lighting"],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 15,
+    "product_title": "Apple Magic Mouse",
+    "product_image": "https://i.ibb.co/hMWb0TX/mouse3.jpg",
+    "category": "mouse",
+    "price": 79,
+    "description": "Apple Magic Mouse with multi-touch surface.",
+    "Specification": ["Wireless", "Bluetooth", "Rechargeable"],
+    "availability": false,
+    "rating": 4.4
+  },
+  {
+    "product_id": 16,
+    "product_title": "Lenovo ThinkPad X1",
+    "product_image": "https://i.ibb.co/G5hTsdK/laptop4.jpg",
+    "category": "laptop",
+    "price": 1400,
+    "description": "Business laptop with strong performance.",
+    "Specification": ["Intel i7", "16GB RAM", "512GB SSD", "14 inch"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 17,
+    "product_title": "Google Pixel 7",
+    "product_image": "https://i.ibb.co/rdzkGdp/phone4.jpg",
+    "category": "phone",
+    "price": 799,
+    "description": "Pixel 7 with Google Tensor chip.",
+    "Specification": ["Tensor G2", "8GB RAM", "128GB Storage"],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 18,
+    "product_title": "HP Omen Gaming Laptop",
+    "product_image": "https://i.ibb.co/9bx7pnk/laptop5.jpg",
+    "category": "laptop",
+    "price": 1600,
+    "description": "Gaming laptop with RTX 3060 graphics.",
+    "Specification": ["Intel i7", "16GB RAM", "1TB SSD", "RTX 3060"],
+    "availability": false,
+    "rating": 4.5
+  },
+  {
+    "product_id": 19,
+    "product_title": "Razer Basilisk X",
+    "product_image": "https://i.ibb.co/k0VrMJw/mouse4.jpg",
+    "category": "mouse",
+    "price": 60,
+    "description": "Wireless gaming mouse with long battery life.",
+    "Specification": ["Wireless", "16K DPI", "Ergonomic"],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": 20,
+    "product_title": "Anker Nano II",
+    "product_image": "https://i.ibb.co/3M4Q0Jh/charger4.jpg",
+    "category": "charger",
+    "price": 40,
+    "description": "Compact fast charger with GaN II technology.",
+    "Specification": ["USB-C", "65W", "GaN II Tech"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 21,
+    "product_title": "MacBook Air M1",
+    "product_image": "https://i.ibb.co/Q7cZpdr/macbook4.jpg",
+    "category": "mackbook",
+    "price": 999,
+    "description": "Affordable MacBook Air with M1 chip.",
+    "Specification": ["Apple M1 Chip", "8GB RAM", "256GB SSD"],
+    "availability": true,
+    "rating": 4.8
+  }
+]
